@@ -6,5 +6,5 @@
 - Desc : Click/Tap on on provinces to zoom 
 
 ## Indonesia HDI Choropleth
-- Link : 
+- Link : http://bl.ocks.org/tvalentius/066b055d4d55de3eb303dc9f3d210d76
 - Desc : Choropleth of Human Development Index in Indonesia
