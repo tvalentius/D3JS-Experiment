@@ -9,6 +9,10 @@
 - Link : http://bl.ocks.org/tvalentius/066b055d4d55de3eb303dc9f3d210d76
 - Desc : Choropleth of Human Development Index in Indonesia
 
-## Indonesia 2014 Election result
+## Indonesia 2014 General Election result
+- Link : TBA
+- Desc : TBA
+
+## Bali, Indonesia 2014 Legislative Election result
 - Link : TBA
 - Desc : TBA
