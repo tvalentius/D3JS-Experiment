@@ -1,0 +1,30 @@
+{
+    "provinces":[
+        {
+            "provinceName":"ACEH",
+            "candidates":[
+                {
+                    "name":"Ganjar Pranowo - Taj Yasin Maimoen",
+                    "tally":79
+                },
+                {
+                    "name":"Sudirman Said - Ida Fauziyah ",
+                    "tally":11.8
+                }
+            ]
+        },
+        {
+            "provinceName":"BALI",
+            "candidates":[
+                {
+                    "name":"Ganjar Pranowo - Taj Yasin Maimoen",
+                    "tally":79
+                },
+                {
+                    "name":"Sudirman Said - Ida Fauziyah ",
+                    "tally":11.8
+                }
+            ]
+        }
+    ]
+}
